@@ -10,7 +10,6 @@ function toggleMode() {
     //se tiver light mode, add a imagem light
     img.setAttribute("src", "./assets/avatar-light.png")
   } else {
-    git
     //se tiver sem light mode, manter a imagem
     img.setAttribute("src", "./assets/avatar.png")
   }
